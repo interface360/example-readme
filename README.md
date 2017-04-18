@@ -18,12 +18,12 @@ Give examples
 
 A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
-
+###### Step 1: Check out the code from GitHub / BitBucket:
 ```
-Give the example
+git clone https://github.com/interface360/example-readme.git -b master
 ```
 
+###### Step 2: Import the project to MuleSoft Anypoint Studio
 And repeat
 
 ```
@@ -65,8 +65,13 @@ Add additional notes about how to deploy this on a live system
 ## Versioning
 
 We use [GitHub](http://github.com/) for versioning. For the versions available, see the [tags on this repository example-readme](https://github.com/interface360/example-readme.git).
+* GitHub URL: https://github.com/interface360/example-readme.git
+
+
+### FAQ
+
+#### How are squashed pull request matched?
 
 ## Authors
 
 * **Raymond Arnado** - *RA* - [interface360](https://github.com/interface360)
-
